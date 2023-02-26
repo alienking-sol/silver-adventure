@@ -1,0 +1,86 @@
+<span id="op">// SPDX-License-Identifier: MIT</span>
+<span id="b">pragma solidity</span><span id="c"> ^0.8.9;</span>
+<span id="b">import</span><span id="f"> "@openzeppelin/contracts/token/ERC721/ERC721.sol";</span>
+<span id="b">import</span><span id="f"> "@openzeppelin/contracts/access/Ownable.sol";</span>
+
+<span id="b">contract</span><span id="p"> FosterPortfolio</span><span id="b"> is</span><span id="p"> ERC721, Ownable</span> <span id="op">{</span>
+    <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="b">constructor</span><span id="op">()</span> <span id="c"> ERC721</span><span id="op">(</span><span id="f">"FosterPortfolio"</span><span id="op">,</span><span id="f">"FP"</span><span id="op">) {}</span>
+<span id="b">function</span> <span id="c">whoIs</span><span id="op">(</span><span id="b">address</span> <span id="op">to,</span> <span id="b">uint256</span> <span id="op">tokenId</span><span id="op">)</span> <span id="b">public</span> <span id="op">{
+        _whoIs(to, tokenId);<br>
+HEY ETHDENVER!!! I'm Foster, thanks for checking out my portfolio! You've probably seen me walking around with a sign that says "HIRE ME"... I appreciate your interest!
+
+I'm an experienced NFT and blockchain professional, born and raised in Victoria, Canada.<br><br>I've worked for both large and small teams, and have developed NFT & Blockchain products throughout their entire lifecycle within the disciplines of blockchain development, community management, product ownership and customer/technical support.<br>
+
+What really sets me apart from others is the fact that I'm a jack-of-all-trades. Some people say it's better to be an expert in one thing and be broad with everything else. Me? I believe it's good to have an intermediate grasp on everything, especially when it comes to Product and Business Development.
+
+If you've already read this far and you're looking to add an all-star to your team, ask me some questions and I'll give you a link to claim your own "I INTERVIEWED FOSTER AT ETHDENVER 2023" POAP!
+}</span> 
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<br><span id="b">function</span> <span id="c">skills</span><span id="op">()</span><span id="c">skills</span> <span id="b">public</span> <span id="op">{</span>
+<span id="op">__ERC721_init(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);
+__Ownable_init();<br>
+I'm experienced in product and project management, blockchain development, cultivating customer relationships, writing technical documents and providing excellent customer support.<br>
+If you looked up "people person" in Websters Dictionary there would be a picture of me. Some absolutely ESSENTIAL soft skills I already posses that you won't need to teach me:<br>
+- Critical Thinking
+- Communication
+- Adaptability
+- Time Management
+- Interpersonal skills
+- Enthusiasm
+- Teamwork<br>
+I TRULY believe I have the ultimate skillset to excel with a growing and collaborative team in the following roles: <span id="z">PRODUCT SEPCIALIST, CLIENT/GROWTH MANAGER, TECHNICAL SUPPORT</span> or a COMBINATION of all the above. Think I'd be a good fit for your team? Interview me at ETHDENVER, get my POAP, or find my email at the bottom!
+    }</span>
+<br><span id="b">function</span> <span id="c">experience</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
+        <span id="op">experience(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
+        <span id="b">@2022 <span id="op">-></span> @2023</span> Analyst w/ <span id="n">Network NFT Studios</span>
+        <span id="b">@2022</span> Product Manager w/ <span id="r">Redbrick</span>
+       <span id="b"> @2022</span> NFT Community Manager w/ <span id="i">IStandWithUkraine</span>
+        <span id="b">@2021 <span id="op">-></span> @2022</span> Customer Success Specialist w/ <span id="l">Leadpages</span>
+        <span id="b">@2021 <span id="op">-></span> @2022</span> Product Manager w/ <span id="x">Bearables</span>
+        <span id="b">@2018 <span id="op">-></span> @2019</span> Customer Success Specialist w/ <span id="s">Shopify</span>
+        }</br><br>
+<span id="b">function</span> <span id="c">stack</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
+<span id="op">stack(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
+<span id="op">Here are all of the SDKs and protocols I have used, plus some respective languages:</span>
+<a href="https://thirdweb.com/" target="_blank">Thirdweb</a>
+<a href="https://www.alchemy.com/" target="_blank">Alchemy</a>
+<a href="https://www.metaplex.com/" target="_blank">Metaplex</a>
+<a href="https://moralis.io/" target="_blank">Moralis</a>
+<a href="https://www.quicknode.com/" target="_blank">QuickNode</a>
+<a href="https://hardhat.org/" target="_blank">Hardhat</a>
+<a href="https://github.com/foundry-rs/foundry" target="_blank">Foundry</a>
+<a href="https://remix.ethereum.org/" target="_blank">Remix</a>
+<a href="https://www.pinata.cloud/" target="_blank">Pinata</a>
+<a href="https://www.openzeppelin.com/contracts" target="_blank">OpenZeppelin Contracts</a>
+<a href="https://metamask.io/sdk/" target="_blank">MetaMask SDK</a>
+<a href="https://walletconnect.com/" target="_blank">WalletConnect</a>
+JS, HTML/CSS, Solidity, ethers.js, web3.js, next.js, React
+
+One very important thing I want to say: while I am not a software developer by trade, what differentiates me from other candidates is the fact that I UNDERSTAND and can COMMUNICATE with multi-facted teams regarding the above tools, as I have actually USED with them.
+}<br><br>
+<span id="b">function</span> <span id="c">currentProgress</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
+        <span id="op">currentProgress(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
+        <a href="https://university.alchemy.com/" target="_blank">Alchemy Solidity Developer Bootcamp</a> (Week 1/7)
+        <a href="https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/2698" target="_blank">NFT required to access the above bootcamp</a>
+        }</br><br>
+<span id="b">function</span> <span id="c">prevProjects</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
+        <span id="op">prevProjects(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
+<span id="op">Here are links to a few projects I've worked on:</span>
+<a href="https://www.istandwithukraine.love/" target="_blank">IStandWithUkraine</a>
+<a href="https://github.com/redbrickmedia/rdbrck-nft" target="_blank"> Redbrick NFT Employee Recognition Program</a>
+<a href="https://github.com/alienking-sol/bearables-main" target="_blank">Bearables NFT (Solana)</a>
+<a href="https://legends.ethosnft.com/countdown" target="_blank">Hockey Hall of Fame Greatness Calling NFT</a>
+}<br>
+<span id="b">function</span> <span id="c">socialLinks</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
+        <span id="op">socialLinks(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
+<span id="op">Here are links to my public profiles:</span>
+<a href="https://www.linkedin.com/in/foster-schlienz/" target="_blank">LinkedIn</a>
+<a href="https://github.com/alienking-sol" target="_blank">GitHub</a>
+<a href="https://twitter.com/EIPdegen" target="_blank">Twitter</a>
+<a href="https://medium.com/@fosterschlienz1" target="_blank">Medium</a>
+<a href="https://www.youtube.com/watch?v=kezp4dHEe5k&t=1450s&ab_channel=NazDumanskyy" target="_blank">Live Podcast chat</a>
+}<br><br>
+<span id="op">If you think I'd be a great fit for your team, I'd love to hear from you!<!-- slightdelayhere--> Feel free to send me an email at</span> <!-- longlonglongcomment --><a href="fosterschlienz1@gmail.com">fosterschlienz1@gmail.com</a>
+<br>
+<span id="op">}</span>
