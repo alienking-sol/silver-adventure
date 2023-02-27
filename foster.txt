@@ -29,7 +29,7 @@ If you looked up "people person" in Websters Dictionary there would be a picture
 - Interpersonal skills
 - Enthusiasm
 - Teamwork<br>
-I TRULY believe I have the ultimate skillset to excel with a growing and collaborative team in the following roles: <span id="z">PRODUCT SEPCIALIST, CLIENT/GROWTH MANAGER, TECHNICAL SUPPORT</span> or a COMBINATION of all the above. Think I'd be a good fit for your team? Interview me at ETHDENVER, get my POAP, or find my email at the bottom!
+I TRULY believe I have the ultimate skillset to excel with a growing and collaborative team in the following roles: <span id="z">PROJECT MANAGER, PRODUCT SEPCIALIST, CLIENT/GROWTH MANAGER, TECHNICAL SUPPORT</span> or a COMBINATION of all the above. Think I'd be a good fit for your team? Interview me at ETHDENVER, get my POAP, or find my email at the bottom!
     }</span>
 <br><span id="b">function</span> <span id="c">experience</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
         <span id="op">experience(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
