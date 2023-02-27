@@ -33,11 +33,11 @@ I TRULY believe I have the ultimate skillset to excel with a growing and collabo
     }</span>
 <br><span id="b">function</span> <span id="c">experience</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
         <span id="op">experience(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
-        <span id="b">@2022 <span id="op">-></span> @2023</span> Analyst w/ <span id="n">Network NFT Studios</span>
-        <span id="b">@2022</span> Product Manager w/ <span id="r">Redbrick</span>
+        <span id="b">@2022 <span id="op">-></span> @2023</span> Analyst + Project Manager w/ <span id="n">Network NFT Studios</span>
+        <span id="b">@2022</span> Project Manager w/ <span id="r">Redbrick</span>
        <span id="b"> @2022</span> NFT Community Manager w/ <span id="i">IStandWithUkraine</span>
         <span id="b">@2021 <span id="op">-></span> @2022</span> Customer Success Specialist w/ <span id="l">Leadpages</span>
-        <span id="b">@2021 <span id="op">-></span> @2022</span> Product Manager w/ <span id="x">Bearables</span>
+        <span id="b">@2021 <span id="op">-></span> @2022</span> Project Manager w/ <span id="x">Bearables</span>
         <span id="b">@2018 <span id="op">-></span> @2019</span> Customer Success Specialist w/ <span id="s">Shopify</span>
         }</br><br>
 <span id="b">function</span> <span id="c">stack</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
