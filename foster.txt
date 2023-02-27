@@ -14,7 +14,7 @@ I'm an experienced NFT and blockchain professional, born and raised in Victoria,
 
 What really sets me apart from others is the fact that I'm a jack-of-all-trades. Some people say it's better to be an expert in one thing and be broad with everything else. Me? I believe it's good to have an intermediate grasp on everything, especially when it comes to Product and Business Development.
 
-If you've already read this far and you're looking to add an all-star to your team, ask me some questions and I'll give you a link to claim your own "I INTERVIEWED FOSTER AT ETHDENVER 2023" POAP!
+If you've already read this far and you're looking to add an all-star to your team, ask me some questions and I'll let you claim your own <span id="z">"I INTERVIEWED FOSTER AT ETHDENVER 2023" POAP!</span>
 }</span> 
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <br><span id="b">function</span> <span id="c">skills</span><span id="op">()</span><span id="c">skills</span> <span id="b">public</span> <span id="op">{</span>
@@ -57,7 +57,7 @@ I TRULY believe I have the ultimate skillset to excel with a growing and collabo
 <a href="https://walletconnect.com/" target="_blank">WalletConnect</a>
 JS, HTML/CSS, Solidity, ethers.js, web3.js, next.js, React
 
-One very important thing I want to say: while I am not a software developer by trade, what differentiates me from other candidates is the fact that I UNDERSTAND and can COMMUNICATE with multi-facted teams regarding the above tools, as I have actually USED with them.
+One very important thing I want to say: while I am not a software developer by trade, what differentiates me from other potential candidates is the fact that I UNDERSTAND and can COMMUNICATE with multi-facted teams regarding web and blockchain development.
 }<br><br>
 <span id="b">function</span> <span id="c">currentProgress</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
         <span id="op">currentProgress(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
