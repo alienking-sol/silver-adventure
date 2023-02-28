@@ -19,7 +19,7 @@ I'm an experienced NFT and blockchain professional, born and raised in Victoria,
 <span id="op">__ERC721_init(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);
 __Ownable_init();<br>
 I'm experienced in product and project management, blockchain development, cultivating customer relationships, writing technical documents and providing excellent customer support.<br>
-If you looked up "people person" in Websters Dictionary there would be a picture of me. Some absolutely ESSENTIAL soft skills I already posses that you won't need to teach me:<br>
+Some absolutely ESSENTIAL soft skills I already posses that you won't need to teach me:<br>
 - Critical Thinking
 - Communication
 - Adaptability
@@ -55,7 +55,7 @@ I have the ultimate skillset to excel with a growing and collaborative team in t
 <a href="https://walletconnect.com/" target="_blank">WalletConnect</a>
 JS, HTML/CSS, Solidity, ethers.js, web3.js, next.js, React
 
-One very important thing I want to say: while I am not a software developer by trade, what differentiates me from other potential candidates is the fact that I UNDERSTAND and can COMMUNICATE with multi-facted teams regarding web and blockchain development.
+While I may not be a software developer by trade, what differentiates me from other potential candidates is the fact that I UNDERSTAND and can COMMUNICATE with multi-facted teams regarding web and blockchain development.
 }<br>
 <span id="b">function</span> <span id="c">currentProgress</span><span id="op">()</span><span id="c">public</span> <span id="b">onlyOwner</span> <span id="op">{</span>
         <span id="op">currentProgress(</span><span id="f">"FosterPortfolio"<span id="op">,</span> "FP"</span><span id="op">);<br>
@@ -76,5 +76,5 @@ One very important thing I want to say: while I am not a software developer by t
 <a href="https://medium.com/@fosterschlienz1" target="_blank">Medium</a>
 <a href="https://www.youtube.com/watch?v=kezp4dHEe5k&t=1450s&ab_channel=NazDumanskyy" target="_blank">Live Podcast chat</a>
 }<br>
-<span id="op">If you think I'd be a great fit for your team, I'd love to hear from you!<!-- slightdelayhere--> Feel free to send me an email at</span> <!-- longlonglongcomment --><a href="fosterschlienz1@gmail.com">fosterschlienz1@gmail.com</a>
+<span id="op">If you think I'd be a great fit for your team, I'd love to hear from you!<!-- slightdelayhere--> Feel free to send me an email at</span> <!-- longlonglongcomment --><span id="z">fosterschlienz1@gmail.com</span>
 <span id="op">}</span>
