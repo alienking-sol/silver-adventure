@@ -8,9 +8,9 @@
 <span id="b">constructor</span><span id="op">()</span> <span id="c"> ERC721</span><span id="op">(</span><span id="f">"FosterPortfolio"</span><span id="op">,</span><span id="f">"FP"</span><span id="op">) {}</span>
 <span id="b">function</span> <span id="c">whoIs</span><span id="op">(</span><span id="b">address</span> <span id="op">to,</span> <span id="b">uint256</span> <span id="op">tokenId</span><span id="op">)</span> <span id="b">public</span> <span id="op">{
         _whoIs(to, tokenId);<br>
-HEY ETHDENVER!!! I'm Foster, thanks for checking out my portfolio! You've probably seen me walking around with a sign that says "HIRE ME"... I appreciate your interest!
+Hey there! I'm Foster, thanks for checking out my portfolio! I appreciate your interest!
 
-If you've already read this far and you're looking to add an all-star to your team, ask me ANY question and I'll let you claim your own "I INTERVIEWED FOSTER AT ETHDENVER 2023" <span id="z">POAP!</span>
+If you've already read this far and you're looking to add an all-star to your team, please reach out for an interview. Once the interview is completed, I will send you a link to claim your very own "I INTERVIEWED FOSTER"<span id="z">POAP!</span>
 
 I'm an experienced NFT and blockchain professional, born and raised in Victoria, Canada.<br><br>I've worked for both large and small teams, and have developed NFT & Blockchain products throughout their entire lifecycle within the disciplines of blockchain development, community management, product ownership and customer/technical support.<br>
 }</span> 
